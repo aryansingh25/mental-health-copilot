@@ -1,0 +1,24 @@
+# Node (React frontend)
+node_modules/
+build/
+.env
+.env.local
+
+# Python (FastAPI backend)
+__pycache__/
+*.pyc
+venv/
+.env
+models/
+*.gguf
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
